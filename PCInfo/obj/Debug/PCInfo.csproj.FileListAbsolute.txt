@@ -18,3 +18,12 @@ C:\Users\fernando.motta\Projetos\DesktopApps\PCInfo_OlderVersions\PCInfoV04\PCIn
 C:\Users\fernando.motta\Projetos\DesktopApps\PCInfo_OlderVersions\PCInfoV04\PCInfo\obj\Debug\PCInfo.csproj.CoreCompileInputs.cache
 C:\Users\fernando.motta\Projetos\DesktopApps\PCInfo_OlderVersions\PCInfoV04\PCInfo\obj\Debug\PCInfo.exe
 C:\Users\fernando.motta\Projetos\DesktopApps\PCInfo_OlderVersions\PCInfoV04\PCInfo\obj\Debug\PCInfo.pdb
+D:\Projetos\Desktop\PCInfo\PCInfo\bin\Debug\PCInfo.exe.config
+D:\Projetos\Desktop\PCInfo\PCInfo\bin\Debug\PCInfo.exe
+D:\Projetos\Desktop\PCInfo\PCInfo\bin\Debug\PCInfo.pdb
+D:\Projetos\Desktop\PCInfo\PCInfo\obj\Debug\PCInfo.Forms.MainForm.resources
+D:\Projetos\Desktop\PCInfo\PCInfo\obj\Debug\PCInfo.Properties.Resources.resources
+D:\Projetos\Desktop\PCInfo\PCInfo\obj\Debug\PCInfo.csproj.GenerateResource.cache
+D:\Projetos\Desktop\PCInfo\PCInfo\obj\Debug\PCInfo.csproj.CoreCompileInputs.cache
+D:\Projetos\Desktop\PCInfo\PCInfo\obj\Debug\PCInfo.exe
+D:\Projetos\Desktop\PCInfo\PCInfo\obj\Debug\PCInfo.pdb
